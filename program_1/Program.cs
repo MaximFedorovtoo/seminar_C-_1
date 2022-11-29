@@ -1,0 +1,1 @@
+﻿number = Console.ReadLine();
